@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 480" width="256px" height="256px" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="10" height="10"/>
+    <bx:export>
+      <bx:file format="svg" path="無題.svg" normalization="web-secure-static" width="512" height="512"/>
+    </bx:export>
+  </defs>
+  <path style="fill: none; stroke-miterlimit: 1; transform-origin: 143.111px 346.586px; stroke-width: 11px; stroke: rgb(255, 255, 255);" d="M 59.996 300.001 C 40.006 260 110.026 20.004 150.022 20.007 C 190.022 20.009 240.006 200.014 220.003 240.012 C 200 280.011 79.996 340.002 59.996 300.001 Z" transform="matrix(1, -0.000068, 0.000068, 1, 0, 0)"/>
+  <path style="fill: none; transform-origin: 109.987px -43.394px; stroke-width: 11px; stroke: rgb(255, 255, 255);" d="M 259.996 240.009 C 239.996 200.01 290 19.904 330 20.004 C 370 20.101 439.997 260.008 419.997 300.008 C 399.996 340.009 279.997 280.01 259.996 240.009 Z"/>
+  <path style="fill: none; stroke-width: 11px; stroke: rgb(255, 255, 255);" d="M 40.002 332.15 C 40.002 391.076 120.002 450.001 240.002 450.001 C 359.998 450.001 439.99 388.55 440 332.15 C 440 275.751 359.998 135.733 240.002 135.733 C 120.002 135.733 40.002 273.225 40.002 332.15 Z"/>
+  <rect style="stroke-linejoin: round; fill: none; stroke: rgb(255, 255, 255); stroke-width: 28px;" x="60" y="220" width="360" height="140" rx="40" ry="40"/>
+  <path style="stroke-linejoin: round; fill: none; stroke-width: 28px; stroke: rgb(255, 255, 255);" d="M 420 260.397 H 440 A 20 20 0 0 1 460 280.397 V 300.397 A 20 20 0 0 1 440 320.397 H 420 V 260.397 Z" bx:shape="rect 420 260.397 40 60 0 20 20 0 1@cc36c1b0"/>
+  <path style="stroke-linejoin: round; fill: rgb(136, 136, 136); stroke-width: 28px; stroke: rgb(255, 255, 255);" d="M 40 260 H 60 V 320 H 40 A 20 20 0 0 1 20 300 V 280 A 20 20 0 0 1 40 260 Z" bx:shape="rect 20 260 40 60 20 0 0 20 1@63b2f5ce"/>
+  <line style="stroke-linecap: round; fill: none; stroke-width: 45px; stroke: rgb(255, 255, 255);" x1="120" y1="360.001" x2="50" y2="400.001"/>
+  <line style="stroke-linecap: round; fill: none; stroke-width: 45px; stroke: rgb(255, 255, 255);" x1="119.998" y1="400.001" x2="89.998" y2="440.001"/>
+  <line style="stroke-linecap: round; fill: none; stroke-width: 45px; stroke: rgb(255, 255, 255);" x1="390.002" y1="440.001" x2="360" y2="400.001"/>
+  <line style="stroke-linecap: round; fill: none; stroke-width: 45px; stroke: rgb(255, 255, 255);" x1="430" y1="400" x2="360" y2="360"/>
+  <path style="fill: rgb(73, 73, 73); transform-origin: 143.111px 346.585px;" d="M 60.001 300 C 40.004 259.999 110.022 20.003 150.022 20.006 C 190.022 20.008 240.006 200.013 220.003 240.011 C 200 280.01 79.998 340.001 60.001 300 Z" transform="matrix(1, -0.000068, 0.000068, 1, 0, 0)"/>
+  <path style="fill: rgb(191, 119, 0); transform-origin: 143.111px 346.173px;" d="M 150.019 70.001 C 128.95 70 80.005 240.001 100.004 260.003 C 120.003 280.004 170.005 260.011 190.007 240.012 C 210.009 220.013 170.019 70.003 150.019 70.001 Z" transform="matrix(1, -0.000068, 0.000068, 1, 0, 0)"/>
+  <path style="fill: rgb(73, 73, 73); stroke-width: 1.18; transform-origin: 109.987px -43.397px;" d="M 259.996 240.006 C 239.996 200.007 290 19.901 330 20.001 C 370 20.098 439.997 260.005 419.997 300.005 C 399.996 340.006 279.997 280.007 259.996 240.006 Z"/>
+  <path style="fill: rgb(191, 119, 0); stroke-width: 1.18; transform-origin: 100.701px -45.851px;" d="M 330 70.001 C 310 70.001 270 220.002 290 240.001 C 309.999 260 359.997 280.005 379.996 260.004 C 399.996 240.005 350 70.001 330 70.001 Z"/>
+  <path style="fill: rgb(73, 73, 73); stroke-width: 1;" d="M 40 332.15 C 40 391.076 120 450.001 240 450.001 C 359.996 450.001 439.988 388.55 439.998 332.15 C 439.998 275.751 359.996 135.733 240 135.733 C 120 135.733 40 273.225 40 332.15 Z"/>
+  <line style="stroke-linecap: round; fill: rgb(73, 73, 73); stroke: rgb(73, 73, 73); stroke-width: 35px;" x1="120" y1="360.001" x2="50" y2="400.001"/>
+  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(73, 73, 73); stroke-width: 35px;" x1="120" y1="400.001" x2="90" y2="440.001"/>
+  <line style="stroke-linecap: round; fill: rgb(73, 73, 73); stroke: rgb(73, 73, 73); stroke-width: 35px;" x1="430" y1="400.001" x2="360" y2="360.001"/>
+  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(73, 73, 73); stroke-width: 35px;" x1="390" y1="440.001" x2="359.998" y2="400.001"/>
+  <path style="fill: rgb(191, 119, 0);" d="M 240 370.001 C 230.033 369.966 210 390.001 210 400.001 C 210 410.001 270 410.001 270 400.001 C 270 390.001 249.967 370.036 240 370.001 Z"/>
+  <rect style="stroke: rgb(73, 73, 73); stroke-linejoin: round; fill: rgb(136, 136, 136); stroke-width: 18px;" x="60" y="220.001" width="360" height="140" rx="40" ry="40"/>
+  <path style="stroke: rgb(73, 73, 73); stroke-linejoin: round; fill: rgb(136, 136, 136); stroke-width: 18px;" d="M 40 260 H 60 V 320 H 40 A 20 20 0 0 1 20 300 V 280 A 20 20 0 0 1 40 260 Z" bx:shape="rect 20 260 40 60 20 0 0 20 1@63b2f5ce"/>
+  <path style="stroke: rgb(73, 73, 73); stroke-linejoin: round; fill: rgb(136, 136, 136); stroke-width: 18px;" d="M 420 260 H 440 A 20 20 0 0 1 460 280 V 300 A 20 20 0 0 1 440 320 H 420 V 260 Z" bx:shape="rect 420 260 40 60 0 20 20 0 1@bad08d1a"/>
+  <ellipse style="stroke: rgb(73, 73, 73); fill: rgb(255, 223, 61); stroke-width: 15px;" cx="329.998" cy="290.009" rx="50" ry="50"/>
+  <ellipse style="fill: rgb(73, 73, 73); stroke-width: 3;" cx="329.998" cy="290.397" rx="30" ry="30"/>
+  <ellipse style="stroke: rgb(73, 73, 73); fill: rgb(255, 223, 61); stroke-width: 15px;" cx="149.998" cy="290.009" rx="50" ry="50"/>
+  <ellipse style="fill: rgb(73, 73, 73); stroke-width: 3;" cx="149.998" cy="290.397" rx="30" ry="30"/>
+</svg>

@@ -1,0 +1,65 @@
+name: MediaPipeTasksCommon, nameSpecified: 
+body:                     …
+version: 0.10.21
+
+name: MediaPipeTasksVision, nameSpecified: 
+body:                     …
+version: 0.10.21
+
+name: async-http-client, nameSpecified: async-http-client, owner: swift-server, version: 1.29.1, source: https://github.com/swift-server/async-http-client
+
+name: compress-nio, nameSpecified: compress-nio, owner: adam-fowler, version: 1.4.2, source: https://github.com/adam-fowler/compress-nio
+
+name: hummingbird, nameSpecified: hummingbird, owner: hummingbird-project, version: 2.17.0, source: https://github.com/hummingbird-project/hummingbird
+
+name: hummingbird-websocket, nameSpecified: hummingbird-websocket, owner: hummingbird-project, version: 2.6.0, source: https://github.com/hummingbird-project/hummingbird-websocket
+
+name: swift-algorithms, nameSpecified: swift-algorithms, owner: apple, version: 1.2.1, source: https://github.com/apple/swift-algorithms
+
+name: swift-asn1, nameSpecified: swift-asn1, owner: apple, version: 1.5.0, source: https://github.com/apple/swift-asn1
+
+name: swift-async-algorithms, nameSpecified: swift-async-algorithms, owner: apple, version: 1.0.4, source: https://github.com/apple/swift-async-algorithms
+
+name: swift-atomics, nameSpecified: swift-atomics, owner: apple, version: 1.3.0, source: https://github.com/apple/swift-atomics
+
+name: swift-certificates, nameSpecified: swift-certificates, owner: apple, version: 1.15.1, source: https://github.com/apple/swift-certificates
+
+name: swift-collections, nameSpecified: swift-collections, owner: apple, version: 1.3.0, source: https://github.com/apple/swift-collections
+
+name: swift-crypto, nameSpecified: swift-crypto, owner: apple, version: 4.1.0, source: https://github.com/apple/swift-crypto
+
+name: swift-distributed-tracing, nameSpecified: swift-distributed-tracing, owner: apple, version: 1.3.1, source: https://github.com/apple/swift-distributed-tracing
+
+name: swift-http-structured-headers, nameSpecified: swift-http-structured-headers, owner: apple, version: 1.5.0, source: https://github.com/apple/swift-http-structured-headers
+
+name: swift-http-types, nameSpecified: swift-http-types, owner: apple, version: 1.5.1, source: https://github.com/apple/swift-http-types
+
+name: swift-log, nameSpecified: swift-log, owner: apple, version: 1.6.4, source: https://github.com/apple/swift-log
+
+name: swift-metrics, nameSpecified: swift-metrics, owner: apple, version: 2.7.1, source: https://github.com/apple/swift-metrics
+
+name: swift-nio, nameSpecified: swift-nio, owner: apple, version: 2.88.0, source: https://github.com/apple/swift-nio
+
+name: swift-nio-extras, nameSpecified: swift-nio-extras, owner: apple, version: 1.30.0, source: https://github.com/apple/swift-nio-extras
+
+name: swift-nio-http2, nameSpecified: swift-nio-http2, owner: apple, version: 1.38.0, source: https://github.com/apple/swift-nio-http2
+
+name: swift-nio-ssl, nameSpecified: swift-nio-ssl, owner: apple, version: 2.36.0, source: https://github.com/apple/swift-nio-ssl
+
+name: swift-nio-transport-services, nameSpecified: swift-nio-transport-services, owner: apple, version: 1.25.2, source: https://github.com/apple/swift-nio-transport-services
+
+name: swift-numerics, nameSpecified: swift-numerics, owner: apple, version: 1.1.1, source: https://github.com/apple/swift-numerics
+
+name: swift-service-context, nameSpecified: swift-service-context, owner: apple, version: 1.2.1, source: https://github.com/apple/swift-service-context
+
+name: swift-service-lifecycle, nameSpecified: swift-service-lifecycle, owner: swift-server, version: 2.9.0, source: https://github.com/swift-server/swift-service-lifecycle
+
+name: swift-system, nameSpecified: swift-system, owner: apple, version: 1.6.3, source: https://github.com/apple/swift-system
+
+name: swift-websocket, nameSpecified: swift-websocket, owner: hummingbird-project, version: 1.3.2, source: https://github.com/hummingbird-project/swift-websocket
+
+name: Swinject, nameSpecified: Swinject, owner: Swinject, version: 2.10.0, source: https://github.com/Swinject/Swinject
+
+add-version-numbers: false
+
+LicensePlist Version: 3.27.1

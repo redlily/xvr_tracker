@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 900" width="512px" height="512px" xmlns:bx="https://boxy-svg.com">
+  <defs>
+    <bx:grid x="0" y="0" width="10" height="10"/>
+    <bx:export>
+      <bx:file format="svg" path="無題.svg" normalization="web-secure-static" width="512" height="512"/>
+    </bx:export>
+  </defs>
+  <path style="fill: rgb(73, 73, 73); transform-origin: 353.111px 556.585px;" d="M 270.001 510 C 250.004 469.999 320.022 230.003 360.022 230.006 C 400.022 230.008 450.006 410.013 430.003 450.011 C 410 490.01 289.998 550.001 270.001 510 Z" transform="matrix(1, -0.000068, 0.000068, 1, 0, 0)"/>
+  <path style="fill: rgb(191, 119, 0); transform-origin: 353.111px 556.173px;" d="M 360.019 280.001 C 338.95 280 290.005 450.001 310.004 470.003 C 330.003 490.004 380.005 470.011 400.007 450.012 C 420.009 430.013 380.019 280.003 360.019 280.001 Z" transform="matrix(1, -0.000068, 0.000068, 1, 0, 0)"/>
+  <path style="fill: rgb(73, 73, 73); stroke-width: 1.18; transform-origin: 319.987px 166.603px;" d="M 469.996 450.006 C 449.996 410.007 500 229.901 540 230.001 C 580 230.098 649.997 470.005 629.997 510.005 C 609.996 550.006 489.997 490.007 469.996 450.006 Z"/>
+  <path style="fill: rgb(191, 119, 0); stroke-width: 1.18; transform-origin: 310.701px 164.149px;" d="M 540 280.001 C 520 280.001 480 430.002 500 450.001 C 519.999 470 569.997 490.005 589.996 470.004 C 609.996 450.005 560 280.001 540 280.001 Z"/>
+  <path style="fill: rgb(73, 73, 73); stroke-width: 1;" d="M 250 542.15 C 250 601.076 330 660.001 450 660.001 C 569.996 660.001 649.988 598.55 649.998 542.15 C 649.998 485.751 569.996 345.733 450 345.733 C 330 345.733 250 483.225 250 542.15 Z"/>
+  <line style="stroke-linecap: round; fill: rgb(73, 73, 73); stroke: rgb(73, 73, 73); stroke-width: 35px;" x1="330" y1="570.001" x2="260" y2="610.001"/>
+  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(73, 73, 73); stroke-width: 35px;" x1="330" y1="610.001" x2="300" y2="650.001"/>
+  <line style="stroke-linecap: round; fill: rgb(73, 73, 73); stroke: rgb(73, 73, 73); stroke-width: 35px;" x1="640" y1="610.001" x2="570" y2="570.001"/>
+  <line style="fill: rgb(216, 216, 216); stroke-linecap: round; stroke: rgb(73, 73, 73); stroke-width: 35px;" x1="600" y1="650.001" x2="569.998" y2="610.001"/>
+  <rect style="stroke: rgb(73, 73, 73); stroke-linejoin: round; fill: rgb(136, 136, 136); stroke-width: 18px;" x="270" y="430.001" width="360" height="140" rx="40" ry="40"/>
+  <path style="stroke: rgb(73, 73, 73); stroke-linejoin: round; fill: rgb(136, 136, 136); stroke-width: 18px;" d="M 250 470 H 270 V 530 H 250 A 20 20 0 0 1 230 510 V 490 A 20 20 0 0 1 250 470 Z" bx:shape="rect 230 470 40 60 20 0 0 20 1@9eba8c4c"/>
+  <path style="stroke: rgb(73, 73, 73); stroke-linejoin: round; fill: rgb(136, 136, 136); stroke-width: 18px;" d="M 630 470 H 650 A 20 20 0 0 1 670 490 V 510 A 20 20 0 0 1 650 530 H 630 V 470 Z" bx:shape="rect 630 470 40 60 0 20 20 0 1@adc0695a"/>
+  <ellipse style="stroke: rgb(73, 73, 73); fill: rgb(255, 223, 61); stroke-width: 15px;" cx="539.998" cy="500.009" rx="50" ry="50"/>
+  <ellipse style="fill: rgb(73, 73, 73); stroke-width: 3;" cx="539.998" cy="500.397" rx="30" ry="30"/>
+  <ellipse style="stroke: rgb(73, 73, 73); fill: rgb(255, 223, 61); stroke-width: 15px;" cx="359.998" cy="500.009" rx="50" ry="50"/>
+  <ellipse style="fill: rgb(73, 73, 73); stroke-width: 3;" cx="359.998" cy="500.397" rx="30" ry="30"/>
+  <path style="fill: rgb(191, 119, 0);" d="M 450 580.001 C 440.033 579.966 420 600.001 420 610.001 C 420 620.001 480 620.001 480 610.001 C 480 600.001 459.967 580.036 450 580.001 Z"/>
+</svg>
